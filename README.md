@@ -12,7 +12,7 @@
     <ul>
         <li>🧑‍🎓 Student at <a href="http://stevens.edu">Stevens Institute of Technology</a> pursuing a B.S. in Computer Science with a minor in Cybersecurity.</li>
         <li>🕵️‍♂️ Hardcore digital privacy advocate and free software enthusiast. In my personal life, I rely almost entirely on free and open source software. I like to put user security at the forefront of my development process.</li>
-        <li>⌚ In my free time I enjoy weightlifting, skateboarding, and watching films. I challenge you to name an album I don't know.</li>
+        <li>⌚ In my free time I enjoy weightlifting, tinkering with my personal projects, and watching films. I like to stay constantly busy.</li>
     </ul>
     <a href="https://github.com/peterrauscher">
         <img src="https://github-readme-stats.vercel.app/api?username=peterrauscher&theme=dracula&show_icons=true&include_all_commits=true" />
