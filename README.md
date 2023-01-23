@@ -44,11 +44,4 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" alt="Linux" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" width="40" alt="OCaml" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" width="40" alt="Apache Web Server" />
-    <h2>🏆 Projects</h2>
-    <a href="https://github.com/peterrauscher/HyperDrop">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=peterrauscher&repo=HyperDrop&theme=dracula" />
-    </a>
-    <a href="https://github.com/CS546-Final-Project-Group8/Final-Project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CS546-Final-Project-Group8&repo=Final-Project&theme=dracula&show_owner=true" />
-    </a>
 </div>
