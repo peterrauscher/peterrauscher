@@ -27,8 +27,8 @@ hobbies: ["Lifting", "Cooking", "Films", "Being outdoors"]
 ```
 
 <div align="center">
-    [![Peter's Github Stats](https://github-readme-stats.vercel.app/api?username=peterrauscher&show_icons=true&count_private=true&include_all_commits=true)](https://peterrauscher.github.io)
-    [![Peter's Featured Projects](https://github-readme-stats.vercel.app/api/top-langs/?username=peterrauscher&layout=compact&hide_progress=true)](https://peterrauscher.github.io)
+    <a href="https://github.com/peterrauscher/peterrauscher"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=peterrauscher&show_icons=true&count_private=true&include_all_commits=true" /></a>
+    <a href="https://github.com/peterrauscher/peterrauscher"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterrauscher&layout=compact&hide_progress=true" /></a>
 </div>
 
 # That's all folks!
