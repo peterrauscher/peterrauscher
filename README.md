@@ -2,8 +2,8 @@
 
 I'm a <strong>Software Engineer</strong> and digital security enthusiast passionate about building stable, secure, and scalable applications. I spend my free time at the gym, contributing to the open-source software that I use daily, and staying up to date on zero-days and infosec news.
 
-<a href="https://github.com/peterrauscher/peterrauscher"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=peterrauscher&show_icons=true&count_private=true&include_all_commits=true" /></a>
-<hr/>
+<!-- <a href="https://github.com/peterrauscher/peterrauscher"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=peterrauscher&show_icons=true&count_private=true&include_all_commits=true" /></a>
+<hr/> -->
 <h3>Get in touch!</h3>
 <a href="https://www.linkedin.com/in/peter-rauscher"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a href="mailto:peterrauscher@protonmail.com"><img src="https://img.shields.io/badge/-Protonmail-505264?style=for-the-badge&logo=Protonmail&logoColor=white"></img></a>
