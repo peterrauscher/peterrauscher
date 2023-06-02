@@ -1,6 +1,6 @@
 <h1> Hi there, I'm Peter! <img src="https://raw.githubusercontent.com/peterrauscher/peterrauscher/master/wave.gif" width="30px" height="30px" /></h1>
 
-I'm a <strong>Software Engineer</strong> and digital security enthusiast passionate about building stable, secure, and scalable applications. I spend my free time at the gym, contributing to the open-source software that I use daily, and staying up to date on zero-days and infosec news.
+I'm a <strong>Full-Stack Developer</strong> passionate about building stable, secure, and scalable applications. I spend my free time at the gym, contributing to the open-source software that I use daily, and staying up to date on zero-days and cybersecurity news.
 
 <!-- <a href="https://github.com/peterrauscher/peterrauscher"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=peterrauscher&show_icons=true&count_private=true&include_all_commits=true" /></a>
 <hr/> -->
