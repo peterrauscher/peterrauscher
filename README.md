@@ -6,3 +6,5 @@
   <a href="https://peterrauscher.com">Blog</a>
 </p>
 <hr/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
