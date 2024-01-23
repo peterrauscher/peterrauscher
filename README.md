@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 12 December 2023 - To: 21 January 2024
+From: 12 December 2023 - To: 22 January 2024
 
-Total Time: 63 hrs 25 mins
+Total Time: 64 hrs 50 mins
 
-Python       23 hrs          ████████▒░░░░░░░░░░░░░░░░   33.61 %
-JavaScript   21 hrs 4 mins   ███████▓░░░░░░░░░░░░░░░░░   30.78 %
-C#           7 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-Other        5 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-sh           4 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-CSS          50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python       23 hrs 6 mins   ████████▒░░░░░░░░░░░░░░░░   33.08 %
+JavaScript   21 hrs 4 mins   ███████▓░░░░░░░░░░░░░░░░░   30.16 %
+C#           7 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Other        5 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+sh           4 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Markdown     1 hr 32 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
 ```
 
 <!--END_SECTION:waka-->
