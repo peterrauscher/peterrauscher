@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 04 January 2024 - To: 03 February 2024
+From: 05 January 2024 - To: 04 February 2024
 
-Total Time: 72 hrs 32 mins
+Total Time: 72 hrs 49 mins
 
-Python       29 hrs 25 mins  █████████▓░░░░░░░░░░░░░░░   38.03 %
-C#           14 hrs 20 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.54 %
-sh           9 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
-Other        4 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-JavaScript   4 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Python       30 hrs 41 mins  ██████████░░░░░░░░░░░░░░░   39.54 %
+C#           14 hrs 5 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+sh           9 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Other        4 hrs 46 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+JavaScript   3 hrs 57 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 Docker       1 hr 33 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
