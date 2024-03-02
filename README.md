@@ -1,4 +1,4 @@
-<h1 align="center">I'm Peter! 🕷️👨</h1>
+<h1 align="center">I'm Peter! 👋</h1>
 <p align="center">I write software that I find useful, and share it in case others do too.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-rauscher">Linkedin</a>
