@@ -1,8 +1,10 @@
-<h1 align="center">I'm Peter! 👋</h1>
-<p align="center">I'm a C# developer by day, and Python and TypeScript developer by night. I write software that I find useful, and share it in case others do too. I'm currently building [solesearch.io](https://solesearch.io), a platform for developers that are also sneakerheads.</p>
+<p align="center">I'm a C# developer by day, and Python and TypeScript developer by night. I write software that I find useful, and share it in case others do too. I'm currently building <a href="https://solesearch.io">solesearch.io</a>, a platform for sneakerheads and developers alike.</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-rauscher">LinkedIn</a>
+  |
   <a href="https://dev.to/peterrauscher">Blog Posts</a>
+  |
+  <a href="https://solesearch.io">solesearch.io</a>
 </p>
 <hr/>
 <!--START_SECTION:waka-->
