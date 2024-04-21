@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 20 March 2024 - To: 19 April 2024
+From: 21 March 2024 - To: 20 April 2024
 
-Total Time: 32 hrs 29 mins
+Total Time: 27 hrs 18 mins
 
-C#           15 hrs 40 mins  ██████████▒░░░░░░░░░░░░░░   40.76 %
-Python       6 hrs 48 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
-Other        5 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
-TypeScript   5 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-sh           2 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+C#           10 hrs 29 mins  ████████░░░░░░░░░░░░░░░░░   31.86 %
+Python       6 hrs 48 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.69 %
+Other        5 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
+TypeScript   5 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
+sh           2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+JavaScript   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
 ```
 
 <!--END_SECTION:waka-->
