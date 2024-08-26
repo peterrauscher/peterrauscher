@@ -10,16 +10,16 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 July 2024 - To: 23 August 2024
+From: 26 July 2024 - To: 25 August 2024
 
-Total Time: 71 hrs 39 mins
+Total Time: 68 hrs 15 mins
 
-PHP                        24 hrs 58 mins  ████████▒░░░░░░░░░░░░░░░░   33.76 %
-JavaScript                 24 hrs 19 mins  ████████▒░░░░░░░░░░░░░░░░   32.88 %
-Python                     8 hrs 21 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
-XML                        4 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-YAML                       3 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Other                      2 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+PHP                        24 hrs 48 mins  ████████▓░░░░░░░░░░░░░░░░   35.15 %
+JavaScript                 21 hrs 15 mins  ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+Python                     7 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+XML                        4 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+YAML                       4 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
+Other                      2 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
 ```
 
 <!--END_SECTION:waka-->
