@@ -10,15 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 07 November 2024 - To: 07 December 2024
+From: 08 November 2024 - To: 08 December 2024
 
-Total Time: 63 hrs 24 mins
+Total Time: 63 hrs 2 mins
 
-Python                     56 hrs 49 mins  ██████████████████████░░░   87.79 %
-PHP                        1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-Other                      1 hr 19 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Bash                       53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-JavaScript                 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Python                     56 hrs 41 mins  ██████████████████████░░░   88.30 %
+PHP                        1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Other                      1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Bash                       53 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+JavaScript                 38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
