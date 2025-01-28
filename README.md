@@ -10,16 +10,15 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 December 2024 - To: 26 January 2025
+From: 29 December 2024 - To: 28 January 2025
 
-Total Time: 61 hrs 55 mins
+Total Time: 61 hrs 18 mins
 
-Python                     52 hrs 26 mins  ████████████████████░░░░░   80.27 %
-Other                      3 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-HTML                       2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
-Text                       1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Terraform                  1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-CSS                        52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python                     51 hrs 40 mins  ████████████████████░░░░░   79.63 %
+Other                      3 hrs 34 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+HTML                       2 hrs 53 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
+Text                       1 hr 47 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Terraform                  1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
