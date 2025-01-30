@@ -6,4 +6,3 @@
   |
   <a href="https://solesearch.io">SoleSearch</a>
 </p>
-<hr/>
