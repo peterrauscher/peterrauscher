@@ -10,6 +10,6 @@ You can read my technical writings (and sometimes general musings) over at [pete
 
 Some repos and apps I've been tinkering with:
 - [**ghostpost**](https://getghostpost.com) - an app that uses AI to help you clean up anything embarrassing from your digital footprint.
-- [**chrome-cell**](https://github.com/peterrauscher/chrome-cell) — Headed Chrome container cell for agent harnesses with KasmVNC live stream, persistent sessions, and single-host K8s manifests.
-- [**BookmarX**](https://github.com/peterrauscher/BookmarX) — Chrome extension organizing messy X/Twitter bookmarks into clean folders using Jev.
-- [**greenkeep**](https://github.com/peterrauscher/greenkeep) — Bring your work commit history home by mirroring private commit activity onto your personal GitHub graph.
+- [**chrome-cell**](https://github.com/peterrauscher/chrome-cell) - Headed Chrome container cell for agent harnesses with live streaming, persistent sessions, and K8s support.
+- [**BookmarX**](https://github.com/peterrauscher/BookmarX) - Chrome extension organizing messy X/Twitter bookmarks into clean folders using Jev.
+- [**greenkeep**](https://github.com/peterrauscher/greenkeep) - Bring your work commit history home by mirroring private commit activity onto your personal GitHub graph.
