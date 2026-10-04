@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a cloud performance optimizer. I like to make systems fast, reliable, and cheap to run. Like my work? [Consider working with me](https://peterrauscher.com) or [get in touch](mailto:peter@peterrauscher.com).
+I'm a cloud performance optimizer. I like to make systems fast, reliable, and cheap to run.
 
 Currently a Senior Software Engineer at [Vividly](https://www.govividly.com). Previously, I was at [Perpay](https://perpay.com) on the commerce team, scaling our backend and infra, and rebuilding an entire e-commerce platform from scratch.
 
